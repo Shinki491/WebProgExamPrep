@@ -17,11 +17,17 @@
     "4": {
         "id": "4",
         "creature": "dragon",
-        "count": 70
+        "count": 70,
+        "hidden": true
     },
     "5": {
         "id": "5",
         "creature": "unicorn",
         "count": 3
+    },
+    "678914024d0b7": {
+        "creature": "gryphon",
+        "count": 2,
+        "id": "678914024d0b7"
     }
 }
